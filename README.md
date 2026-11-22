@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Ivan Karzin 
 
-<!--
-**Ivampypy/Ivampypy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at **HSE University (Nizhny Novgorod)** focusing on **Machine Learning**, **Recommender Systems**, **Transformers**, and **AI Agents**.  
+I enjoy understanding how algorithms work under the hood and wrapping ML/LLM models into working services with APIs, UIs, and Docker.
 
-Here are some ideas to get you started:
+#### What I'm currently working on
+- Building a **Two-Tower Retrieval (TTR)** model for a movie recommender system on MovieLens 100K (`movie-recsys`).
+- Exploring **RAG pipelines**, **Transformers**, and **AI Agents** (task routing, tool use, and token budget control).
+- Practicing algorithms, data structures, and SQL for ML Engineering internships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- **Languages & Data:** Python, SQL, NumPy, Pandas, Matplotlib
+- **ML / DL:** PyTorch, scikit-learn, Transformers, SVD, Two-Tower Retrieval, MLP
+- **LLM & Agents:** RAG, AI Agents, Task Routing, LLM APIs
+- **Backend & Deployment:** FastAPI, Pydantic, Streamlit, Docker, Docker Compose, Git
+
+#### Contacts & Links
+- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/ivan-karzin-64940244a)
+- **Telegram:** [@nepipipip](https://t.me/nepipipip
+)
+
