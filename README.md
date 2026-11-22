@@ -15,7 +15,6 @@ I enjoy understanding how algorithms work under the hood and wrapping ML/LLM mod
 - **Backend & Deployment:** FastAPI, Pydantic, Streamlit, Docker, Docker Compose, Git
 
 #### Contacts & Links
-- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/ivan-karzin-64940244a)
-- **Telegram:** [@nepipipip](https://t.me/nepipipip
-)
+- **LinkedIn:** [linkedin.com](www.linkedin.com/in/ivan-karzin-ml)
+- **Telegram:** [@nepipipip](https://t.me/nepipipip)
 
