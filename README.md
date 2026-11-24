@@ -1,10 +1,9 @@
 ### Hi, I'm Ivan Karzin 
 
-Student at **HSE University (Nizhny Novgorod)** focusing on **Machine Learning**, **Recommender Systems**, **Transformers**, and **AI Agents**.  
-I enjoy understanding how algorithms work under the hood and wrapping ML/LLM models into working services with APIs, UIs, and Docker.
+Student at **HSE University** focusing on **Machine Learning**, **Recommender Systems**, **Transformers**, and **AI Agents**.  
+I enjoy wrapping ML/LLM models into working services with APIs, UIs, and Docker.
 
 #### What I'm currently working on
-- Building a **Two-Tower Retrieval (TTR)** model for a movie recommender system on MovieLens 100K (`movie-recsys`).
 - Exploring **RAG pipelines**, **Transformers**, and **AI Agents** (task routing, tool use, and token budget control).
 - Practicing algorithms, data structures, and SQL for ML Engineering internships.
 
